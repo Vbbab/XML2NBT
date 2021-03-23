@@ -1,2 +1,2 @@
 # XML2NBT
-XML to NBT converter and vice versa. Easily portable.
+NBT to XML, or XML to NBT. Easily portable.
